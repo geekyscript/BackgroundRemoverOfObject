@@ -2,6 +2,9 @@
 
 > ⚡ Say goodbye to expensive software — and hello to Python-powered background removal in just a few lines of code!
 
+## 📽️ Prefer Watching Instead?
+
+🎥 [Watch 🔥How to Build a Background Remover using Python | Python + Rembg | Fast & Easy! Tutorial](https://youtu.be/2bI6-wlOS2I)
 ---
 
 ## 📸 Why Remove Backgrounds with Python?
