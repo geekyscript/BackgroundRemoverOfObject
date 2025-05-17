@@ -4,6 +4,7 @@
 
 ## 📽️ Prefer Watching Instead?
 ![Background Remover Example](img.png)
+
 *Example of a face detected via webcam using Haar Cascade.*
 🎥 [Watch 🔥How to Build a Background Remover using Python | Python + Rembg | Fast & Easy! Tutorial](https://youtu.be/2bI6-wlOS2I)
 ---
